@@ -15,6 +15,6 @@ This repository collects my learning projects in **SQL, spreadsheets, and BI**.
 - Google BigQuery
 - Excel / Google Sheets (formulas, pivot tables, dashboards)
 - Looker Studio (visualizations)
-- Git (basics), basic statistics
+- Git (basics), basic statistic
 
 📬 **Contact:** b.kurshev1500@gmail.com
