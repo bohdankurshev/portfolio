@@ -8,7 +8,7 @@ This repository collects my learning projects in **SQL, spreadsheets, and BI**.
 - 📈 **Excel Sales Project** — cleaning, pivots, KPIs, trends. → [/excel_sales](/Excel
 )
 - 🔎 **Looker Studio / BigQuery** — search analytics dashboard. → [/looker_search_analytics](./looker_search_analytics)
-- 🧩 **SQL Practice** — selected tasks & solutions. → [/sql_practice](./sql_practice)
+- 🧩 **SQL Practice** — selected tasks & solutions. → [/sql_practice](./sql_exercises)
 
 ## 🛠️ Tech stack
 - SQL (PostgreSQL: DML, DDL, joins, aggregates, JSON)
