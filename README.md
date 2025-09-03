@@ -16,4 +16,4 @@ This repository collects my learning projects in **SQL, spreadsheets, and BI**.
 - Looker Studio (visualizations)
 - Git (basics), basic statistics
 
-📬 **Contact:** your.email@example.com
+📬 **Contact:** b.kurshev1500@gmail.com
