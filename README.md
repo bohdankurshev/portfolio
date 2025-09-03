@@ -5,7 +5,9 @@ This repository collects my learning projects in **SQL, spreadsheets, and BI**.
 
 ## 🚀 Projects
 - 🎬 **Movies Database (PostgreSQL)** — relational schema, DDL/DML, joins, aggregates, JSON. → [/movies_db](./movies_db)
-- 📈 **Excel Sales Dashboard** — cleaning, pivots, KPIs, trends. → [/excel_sales_dashboard](./excel_sales_dashboard)
+- 📈 **Excel Sales Dashboard** — cleaning, pivots, KPIs, trends. → [/excel_sales_dashboard](./Excel
+/Excel_Train_Project.md
+)
 - 🔎 **Looker Studio / BigQuery** — search analytics dashboard. → [/looker_search_analytics](./looker_search_analytics)
 - 🧩 **SQL Practice** — selected tasks & solutions. → [/sql_practice](./sql_practice)
 
