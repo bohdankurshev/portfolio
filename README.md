@@ -1,10 +1,9 @@
 # 📊 Data Analytics Portfolio
-
-Hi, I'm **Bohdan Kurshev** — Junior Data Analyst & Data Science Enthusiast.  
-This repository collects my learning projects in **SQL, spreadsheets, and BI**.
+Welcome to my portfolio! I'm Bohdan Kurshev, a **Junior Data Analyst** specializing in **end-to-end data workflows** and seeking to build a career in the wider **Data Science domain**.
+This repository showcases my practical proficiency in advanced **SQL**, **data cleansing, ETL/ELT principles**, and **BI dashboard creation**, demonstrating a strong foundation for future growth in data-driven roles.
 
 ## 🚀 Projects
-- ☕ **Coffee Sales Analytics** (PostgreSQL + Looker Studio) — **ETL pipeline**, data cleansing, and sales analysis for dashboard reporting. → **/coffee_sales_analytics**
+- ☕ **Coffee Sales Analytics** (PostgreSQL + Looker Studio) — **ETL pipeline**, data cleansing, and sales analysis for dashboard reporting. → [/coffee-sales-analytics](./coffee-sales-analytics).
 - 🎬 **Movies Database (PostgreSQL)** — relational schema, DDL/DML, joins, aggregates, JSON. → [/movies_db](./movies_db)
 - 📈 **Excel Sales Project** — cleaning, pivots, KPIs, trends. → [/excel_sales](/Excel
 )
