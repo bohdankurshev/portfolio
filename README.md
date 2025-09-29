@@ -12,7 +12,7 @@ This repository collects my learning projects in **SQL, spreadsheets, and BI**.
 - 🧩 **SQL Practice** — selected tasks & solutions. → [/sql_practice](./sql_exercises)
 
 ## 🛠️ Tech stack
-* **SQL (PostgreSQL):** DML, DDL, joins, aggregates, JSON, **Subqueries, Common Table Expressions (CTE), and advanced Window Functions (e.g., SUM/AVG OVER, RANK, LEAD/LAG).**
+* **SQL (PostgreSQL):** DML, DDL, joins, aggregates, JSON, **Subqueries, Common Table Expressions (CTE), Window Functions (e.g., SUM/AVG OVER, RANK, LEAD/LAG).**
 * **Google BigQuery**
 * **Excel / Google Sheets** (formulas, pivot tables, dashboards)
 * **Looker Studio** (visualizations, **dashboard design, data storytelling**)
