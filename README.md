@@ -9,6 +9,7 @@ My current focus is on building practical analytics projects, but my long-term g
 )
 - 🔎 **Looker Studio / BigQuery** — search analytics dashboard. → [/looker_search_analytics](https://lookerstudio.google.com/s/qOhavXVwqWM)
 - 🧩 **SQL Practice** — selected tasks & solutions. → [/sql_practice](./sql_exercises)
+- 📊 **A/B Testing & Statistics — hypothesis testing, statistical modeling (Poisson/Binomial), and data analysis using Python libraries (Pandas, SciPy, Seaborn). → /Data-Analysis-AB-Test
 
 ## 🛠️ Tech stack
 * **SQL (PostgreSQL):** DML, DDL, joins, aggregates, JSON, **Subqueries, Common Table Expressions (CTE), Window Functions (e.g., SUM/AVG OVER, RANK, LEAD/LAG).**
