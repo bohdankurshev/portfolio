@@ -1,35 +1,55 @@
-# 📊 Data Analytics Portfolio
+# Hi there! I'm Bohdan Kurshev 👋
+### 📊 Junior Data Analyst | Aspiring Data Scientist
 
-Welcome to my portfolio! I'm Bohdan Kurshev, a **Junior Data Analyst** with a solid foundation in **SQL, data modeling, ETL/ELT pipelines, and BI dashboards**. 
-My current focus is on building practical analytics projects, but my long-term goal is to grow into the **Data Science field** — combining analytics, programming, and statistics to solve real-world business problems.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/bohdan-kurshev) [![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=flat&logo=gmail)](mailto:b.kurshev1500@gmail.com)
 
----
-
-## 🚀 Projects
-
-* 📈 **Power BI Projects** (End-to-End Business Reporting) — Comprehensive collection of **modern, fully interactive dashboards** showcasing advanced data preparation, modeling, and visualization skills. → [/powerbi-projects](./powerbi-projects)
-* ☕ **Coffee Sales Analytics** (PostgreSQL + Looker Studio) — **ETL pipeline**, data cleansing, and sales analysis for dashboard reporting. → [/coffee-sales-analytics](./coffee-sales-analytics)
-* 🎬 **Movies Database (PostgreSQL)** — relational schema, DDL/DML, joins, aggregates, JSON. → [/movies_db](./movies_db)
-* 📊 **A/B Testing & Statistics** — hypothesis testing, statistical modeling, and data analysis using Python libraries. → [/Data-Analysis-AB-Test](.//Data-Analysis-AB-Test)
-* 🔎 **Looker Studio / BigQuery** — search analytics dashboard. → [/looker_search_analytics](https://lookerstudio.google.com/s/qOhavXVwqWM)
-* 🧩 **SQL Practice** — selected tasks & solutions. → [/sql_practice](./sql_exercises)
-* 📉 **Excel Sales Project** — cleaning, pivots, KPIs, trends. → [/excel-sales](/Excel)
+I translate raw data into business solutions. My expertise lies in building **end-to-end BI pipelines**: from extracting and cleaning data using SQL & Power Query to designing performance-optimized data models and interactive storytelling dashboards in Power BI.
 
 ---
 
-## 🛠️ Tech Stack & Key Skills
+## 🏆 Flagship Power BI Projects
+*These projects demonstrate the full "Raw Data to Insights" workflow.*
 
-* **Microsoft Power BI (End-to-End Proficiency):**
-    * **Data Visualization & UX:** Designing **modern, user-centric reports** with a focus on narrative storytelling, custom visual elements, and interactivity (Bookmarks, Drillthrough).
-    * **Advanced Data Modeling:** Implementing robust Star Schema architecture and optimizing model performance for large datasets.
-    * **Calculations & Logic (DAX):** Developing complex measures for Time Intelligence, financial metrics, and custom calculations.
-    * **Data Preparation (Power Query / M Language):** Performing advanced ETL, data cleansing, transformation, and shaping raw data.
-* **SQL (PostgreSQL / BigQuery):** DML, DDL, joins, aggregates, JSON, **Subqueries, Common Table Expressions (CTE), Window Functions (e.g., SUM/AVG OVER, RANK, LEAD/LAG).**
-* **Google Looker Studio:** Dashboard design, **Data Storytelling**, interactive visualizations, and direct connection to BigQuery.
-* **Excel / Google Sheets:** Formulas, pivot tables, and KPI tracking.
-* **Database Fundamentals:** Strong grasp of ETL/ELT principles, relational schema design, and enforcing data integrity using SQL constraints.
-* **Data Quality & Documentation:** Hands-on experience with **Data Profiling** (identifying missing values, unique counts, and inconsistencies), **Data Cleansing/Wrangling**, and maintaining detailed **Change Logs** with business justification for transformations.
+| Project | Description & Tech Stack |
+| :--- | :--- |
+| **[🚴 AdventureWorks Analytics](./powerbi-projects/AdventureWorks_Report)** | **Sales & Returns Management.** A comprehensive dashboard tracking KPIs, regional performance, and product profitability.<br>🛠️ *Skills:* Star Schema, Advanced DAX, Bookmarks, Drill-through. |
+| **[🛒 Maven Market Retail](./powerbi-projects/MavenMarket_Report)** | **Retail Intelligence Simulation.** Analyzed 25,000+ transactions for a multi-national retail chain.<br>🛠️ *Skills:* ETL, Time Intelligence (YoY/MoM), AI Visuals, Parameter Scenarios. |
 
 ---
 
-📬 **Contact:** b.kurshev1500@gmail.com
+## 🛠️ Technical Arsenal
+
+### 🔹 Microsoft Power BI (Full Stack)
+*Based on comprehensive Maven Analytics training:*
+* **🔌 Connecting & Shaping:** Advanced ETL workflows using **Power Query (M)** to clean, pivot, and merge messy datasets.
+* **🏗️ Data Modeling:** Designing robust **Star Schemas**, managing relationships (1:*, *:1), and handling filter context flow.
+* **🧮 Advanced DAX:** Writing complex measures using `CALCULATE`, Time Intelligence, Iterators (`SUMX`), and User-defined Parameters.
+* **🎨 Visualization & UX:** Creating custom navigation, tooltips, and using **AI Visuals** (Key Influencers, Decomposition Trees) for automated insights.
+* **⚡ Optimization:** Using **Performance Analyzer** to reduce report rendering time and optimize file size.
+
+### 🔹 SQL & Databases
+* **Core:** PostgreSQL, Google BigQuery.
+* **Operations:** Complex Joins, CTEs (Common Table Expressions), Window Functions (`RANK`, `LEAD/LAG`), Subqueries.
+* **Design:** DDL/DML, Relational Schema Design, Data Integrity constraints.
+
+### 🔹 Additional Tools
+* **Looker Studio:** Building cloud-native dashboards connected to BigQuery.
+* **Python:** Statistical analysis and A/B Testing libraries (Pandas, Scipy).
+* **Excel:** Pivot Tables, Lookup functions, Business modeling.
+
+---
+
+## 📂 Other Data Projects
+
+* ☕ **[Coffee Sales Analytics](./coffee-sales-analytics)** — *Full Cycle:* SQL Extraction → Data Cleaning → Looker Studio Dashboard.
+* 🎬 **[Movies Database](./movies_db)** — SQL Database creation, schema design, and complex querying.
+* 🔎 **[Looker Search Analytics](https://lookerstudio.google.com/s/qOhavXVwqWM)** — SEO & Search performance monitoring using BigQuery data.
+* 📊 **[A/B Testing & Statistics](./Data-Analysis-AB-Test)** — Hypothesis testing and statistical modeling with Python.
+* 🧩 **[SQL Practice Hub](./sql_exercises)** — A collection of solved SQL challenges and query optimizations.
+
+---
+
+### 📫 Let's Connect!
+I am currently **open to new opportunities** as a Data Analyst. I bring a blend of technical precision (SQL/DAX) and business acumen (Storytelling/KPIs).
+
+📧 **Email:** [b.kurshev1500@gmail.com](mailto:b.kurshev1500@gmail.com)
