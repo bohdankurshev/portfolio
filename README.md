@@ -1,5 +1,5 @@
 # Hi there! I'm Bohdan Kurshev 👋
-### 📊 Junior Data Analyst | Aspiring Data Scientist
+### 📊 Data Analytics Portfolio
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/bohdan-kurshev) [![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=flat&logo=gmail)](mailto:b.kurshev1500@gmail.com)
 
@@ -12,8 +12,8 @@ I translate raw data into business solutions. My expertise lies in building **en
 
 | Project | Description & Tech Stack |
 | :--- | :--- |
-| **[🚴 AdventureWorks Analytics](./powerbi-projects/AdventureWorks_Report)** | **Sales & Returns Management.** A comprehensive dashboard tracking KPIs, regional performance, and product profitability.<br>🛠️ *Skills:* Star Schema, Advanced DAX, Bookmarks, Drill-through. |
-| **[🛒 Maven Market Retail](./powerbi-projects/MavenMarket_Report)** | **Retail Intelligence Simulation.** Analyzed 25,000+ transactions for a multi-national retail chain.<br>🛠️ *Skills:* ETL, Time Intelligence (YoY/MoM), AI Visuals, Parameter Scenarios. |
+| **[🚴 AdventureWorks Analytics](./powerbi-projects/AdventureWorks_Report)** | **Sales & Returns Management.** A comprehensive dashboard tracking KPIs, regional performance, and product profitability. |
+| **[🛒 Maven Market Retail](./powerbi-projects/MavenMarket_Report)** | **Retail Intelligence Simulation.** Analyzed 25,000+ transactions for a multi-national retail chain. |
 
 ---
 
