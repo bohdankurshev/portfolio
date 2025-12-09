@@ -142,6 +142,5 @@ CALCULATE([Total Returns], ALL('Return_Data'))
 
 ---
 
-### ✅ Document fully merged and formatted.
-Якщо треба — можу згенерувати PDF, DOCX або Markdown‑версію одним файлом.
+## End of File
 
