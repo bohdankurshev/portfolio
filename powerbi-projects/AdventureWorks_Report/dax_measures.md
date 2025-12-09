@@ -1,6 +1,6 @@
 # DAX Measures Documentation
 
-A structured and professionally formatted collection of DAX measures with clear explanations. Measures are grouped logically to improve readability and understanding.
+A structured and professionally formatted collection of DAX measures with clear explanations, designed to provide a transparent and comprehensive overview of the analytical logic used in this Power BI project.
 
 ---
 
