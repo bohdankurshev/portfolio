@@ -49,6 +49,6 @@ I translate raw data into business solutions. My expertise lies in building **en
 ---
 
 ### 📫 Let's Connect!
-I am currently **open to new opportunities** as a Data Analyst. I bring a blend of technical precision (SQL/DAX) and business acumen (Storytelling/KPIs).
+I am currently **open to new opportunities** as a Data Analyst.
 
 📧 **Email:** [b.kurshev1500@gmail.com](mailto:b.kurshev1500@gmail.com)
