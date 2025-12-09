@@ -48,6 +48,12 @@ My expertise lies in **architecting** end-to-end BI pipelines: from **transformi
 
 ---
 
+## 🏅 Certifications & Education
+
+* **Microsoft Power BI Desktop for Business Intelligence** — [View Certificate (Udemy)](./certificates/PowerBI_Certification_MavenAnalytics.pdf)
+    * *Completed 200+ lessons and two capstone projects covering all aspects of the Power BI software suite*.
+---
+
 ### 📫 Let's Connect!
 I am currently **open to new opportunities** as a Data Analyst.
 
