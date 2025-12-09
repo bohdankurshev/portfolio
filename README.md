@@ -12,8 +12,18 @@ I translate raw data into business solutions. My expertise lies in building **en
 
 | Project | Description & Tech Stack |
 | :--- | :--- |
-| **[🚴 AdventureWorks Analytics](./powerbi-projects/AdventureWorks_Report)** | **Sales & Returns Management.** A comprehensive dashboard tracking KPIs, regional performance, and product profitability. |
+| **[AdventureWorks Analytics](./powerbi-projects/AdventureWorks_Report)** | **Sales & Returns Management.** A comprehensive dashboard tracking KPIs, regional performance, and product profitability. |
 | **[🛒 Maven Market Retail](./powerbi-projects/MavenMarket_Report)** | **Retail Intelligence Simulation.** Analyzed 25,000+ transactions for a multi-national retail chain. |
+
+---
+
+## 📂 Other Data Projects
+
+* ☕ **[Coffee Sales Analytics](./coffee-sales-analytics)** — *Full Cycle:* SQL Extraction → Data Cleaning → Looker Studio Dashboard.
+* 🎬 **[Movies Database](./movies_db)** — SQL Database creation, schema design, and complex querying.
+* 🔎 **[Looker Search Analytics](https://lookerstudio.google.com/s/qOhavXVwqWM)** — SEO & Search performance monitoring using BigQuery data.
+* 📊 **[A/B Testing & Statistics](./Data-Analysis-AB-Test)** — Hypothesis testing and statistical modeling with Python.
+* 🧩 **[SQL Practice Hub](./sql_exercises)** — A collection of solved SQL challenges and query optimizations.
 
 ---
 
@@ -29,22 +39,12 @@ I translate raw data into business solutions. My expertise lies in building **en
 
 ### 🔹 SQL & Databases
 * **Core:** PostgreSQL, Google BigQuery.
-* **Operations:** Complex Joins, CTEs (Common Table Expressions), Window Functions (`RANK`, `LEAD/LAG`), Subqueries.
+* **Operations:** Complex Joins, CTEs, Window Functions (`RANK`, `LEAD/LAG`), Subqueries.
 * **Design:** DDL/DML, Relational Schema Design, Data Integrity constraints.
 
 ### 🔹 Additional Tools
 * **Looker Studio:** Building cloud-native dashboards connected to BigQuery.
 * **Excel / Google Sheets:** (Formulas, pivot tables, and dashboards).
-
----
-
-## 📂 Other Data Projects
-
-* ☕ **[Coffee Sales Analytics](./coffee-sales-analytics)** — *Full Cycle:* SQL Extraction → Data Cleaning → Looker Studio Dashboard.
-* 🎬 **[Movies Database](./movies_db)** — SQL Database creation, schema design, and complex querying.
-* 🔎 **[Looker Search Analytics](https://lookerstudio.google.com/s/qOhavXVwqWM)** — SEO & Search performance monitoring using BigQuery data.
-* 📊 **[A/B Testing & Statistics](./Data-Analysis-AB-Test)** — Hypothesis testing and statistical modeling with Python.
-* 🧩 **[SQL Practice Hub](./sql_exercises)** — A collection of solved SQL challenges and query optimizations.
 
 ---
 
