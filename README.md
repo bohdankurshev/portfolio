@@ -3,7 +3,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/bohdan-kurshev) [![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=flat&logo=gmail)](mailto:b.kurshev1500@gmail.com)
 
-I translate raw data into business solutions. My expertise lies in building **end-to-end BI pipelines**: from extracting and cleaning data using SQL & Power Query to designing performance-optimized data models and interactive storytelling dashboards in Power BI.
+**Data tells a story; I write the ending.**
+
+My expertise lies in **architecting** end-to-end BI pipelines: from **transforming** raw data using SQL & Power Query to **constructing** performance-optimized data models and interactive storytelling dashboards. My passion stems from the versatility of this field—analyzing metrics across diverse sectors like **Retail Intelligence** and **Business Operations**—to **uncover** insights that solve actual problems. I am constantly **expanding** my technical horizon, aiming to fuse analytics with statistics in the Data Science realm.
 
 ---
 
