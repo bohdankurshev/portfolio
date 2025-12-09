@@ -37,13 +37,5 @@ This report contains **2 main pages** (Overview and Performance Notes) designed 
 
 ---
 
-## 📸 Dashboard Preview
-
-![Maven Market Dashboard Screenshot](./image_421515.jpg)
-
----
-
-### 🤝 Connect & Feedback
-Thank you for reviewing this project! This report demonstrates my ability to transform raw retail data into a clear and actionable strategic tool.
-
-If you have any questions about the DAX logic or data modeling, feel free to reach out!
+## 🤝 Connect & Feedback
+Thank you for checking out my project! Feel free to download the .pbix file to explore the logic under the hood. If you have any questions or feedback, don't hesitate to reach out.
