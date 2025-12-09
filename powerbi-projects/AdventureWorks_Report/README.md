@@ -30,16 +30,3 @@ Here are the main files included in this repository. You can view the static rep
 * **Power Query** (ETL & Data Cleaning)
 * **DAX** (Data Analysis Expressions for complex calculations)
 * **Star Schema Modeling** (Fact & Dimension tables optimization)
-
----
-
-## 📸 Data Model Preview
-
-An optimized data model is the heart of any Power BI report. Below is the Star Schema design used in this project:
-
-![Data Model](./model_schema.png)
-
----
-
-### 📬 Contact
-Feel free to reach out if you have any questions about the logic or implementation!
