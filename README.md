@@ -34,8 +34,7 @@ I translate raw data into business solutions. My expertise lies in building **en
 
 ### 🔹 Additional Tools
 * **Looker Studio:** Building cloud-native dashboards connected to BigQuery.
-* **Python:** Statistical analysis and A/B Testing libraries (Pandas, Scipy).
-* **Excel:** Pivot Tables, Lookup functions, Business modeling.
+* **Excel / Google Sheets:** (Formulas, pivot tables, and dashboards).
 
 ---
 
