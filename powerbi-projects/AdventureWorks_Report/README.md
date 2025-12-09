@@ -1,6 +1,8 @@
 # 📊 AdventureWorks Sales Analytics Dashboard
 
-Welcome to my Power BI project! This dashboard provides a comprehensive analysis of sales performance for the **AdventureWorks** company. The goal was to transform raw data into actionable insights to support business decision-making.
+Welcome to my Power BI project! This dashboard was developed based on a **Maven Analytics** business intelligence simulation.
+
+It provides a comprehensive analysis of sales performance for **AdventureWorks**, a global manufacturer of **cycling equipment and accessories**. The goal was to transform raw data into actionable insights to support business decision-making.
 
 ---
 
@@ -19,10 +21,13 @@ Here are the main files included in this repository. You can view the static rep
 
 ## 🚀 Key Features
 
+This **4-page interactive report** is designed to answer key business questions:
+
 * **Sales Overview:** High-level KPIs tracking Revenue, Profit, and Returns against targets.
-* **Product Performance:** Deep dive into top-selling products and categories using dynamic filtering.
+* **Product Performance:** Deep dive into top-selling products, featuring a **"What-If" parameter** to simulate price adjustment scenarios.
 * **Customer Insights:** Analysis of customer demographics and purchasing behaviors.
-* **Interactive Navigation:** Bookmarks and drill-through features for a seamless user experience.
+* **Geospatial Analysis:** A map view visualizing sales distribution across global regions.
+* **Interactive Navigation:** Custom bookmarks and drill-through features for a seamless user experience.
 
 ## 🛠️ Tech Stack
 
@@ -30,3 +35,8 @@ Here are the main files included in this repository. You can view the static rep
 * **Power Query** (ETL & Data Cleaning)
 * **DAX** (Data Analysis Expressions for complex calculations)
 * **Star Schema Modeling** (Fact & Dimension tables optimization)
+
+---
+
+### 🤝 Connect & Feedback
+Thank you for checking out my project! Feel free to download the `.pbix` file to explore the logic under the hood. If you have any questions or feedback, don't hesitate to reach out.
