@@ -72,7 +72,6 @@ Average Revenue per Customer = DIVIDE(
 ---
 
 ## 2. **Adjusted Metrics**
-These measures come from a large imported block of code used during training sessions. We replaced source columns with our own, but the logic follows standard retail price adjustment patterns.
 
 ### **Adjusted Price**
 ```DAX
