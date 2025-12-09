@@ -12,7 +12,7 @@ I translate raw data into business solutions. My expertise lies in building **en
 
 | Project | Description & Tech Stack |
 | :--- | :--- |
-| **[AdventureWorks Analytics](./powerbi-projects/AdventureWorks_Report)** | **Sales & Returns Management.** A comprehensive dashboard tracking KPIs, regional performance, and product profitability. |
+| **[🚴 AdventureWorks Analytics](./powerbi-projects/AdventureWorks_Report)** | **Sales & Returns Management.** A comprehensive dashboard tracking KPIs, regional performance, and product profitability. |
 | **[🛒 Maven Market Retail](./powerbi-projects/MavenMarket_Report)** | **Retail Intelligence Simulation.** Analyzed 25,000+ transactions for a multi-national retail chain. |
 
 ---
