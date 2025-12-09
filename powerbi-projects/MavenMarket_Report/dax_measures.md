@@ -1,4 +1,4 @@
-# 🧠 Maven Market: DAX Measures — Complete Documentation
+# DAX Measures Documentation
 
 This document contains the full, merged, cleanly formatted list of DAX measures used in the **Maven Market Power BI project**. All measures are grouped by category and include short explanations.
 
