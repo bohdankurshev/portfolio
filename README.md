@@ -19,7 +19,7 @@ My expertise lies in **architecting** end-to-end BI pipelines: from **transformi
 
 ## 📂 Other Data Projects
 
-* 📗 **[Google Sheets Sales Project](./Excel/GoogleSheets_Train_Project.md)** — Data cleaning, advanced formulas, Pivot Tables analysis, and dashboard creation.
+* 📗 **[Google Sheets Sales Project](./Excel/GoogleSheets_Train_Project.md)** — Data cleaning, pivot tables, Power Query, KPI dashboards.
 * ☕ **[Coffee Sales Analytics](./coffee-sales-analytics)** — *Full Cycle:* SQL Extraction → Data Cleaning → Looker Studio Dashboard.
 * 🎬 **[Movies Database](./movies_db)** — SQL Database creation, schema design, and complex querying.
 * 🔎 **[Looker Search Analytics](https://lookerstudio.google.com/s/qOhavXVwqWM)** — SEO & Search performance monitoring using BigQuery data.
