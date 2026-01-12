@@ -58,4 +58,4 @@ My expertise lies in **architecting** end-to-end BI pipelines: from **transformi
 ### 📫 Let's Connect!
 I am currently **open to new opportunities** as a Data Analyst.
 
-📧 **Email:** [b.kurshev1500@gmail.com](mailto:b.kurshev1500@gmail.com)
+📧 **Email:** [bohdan.kurshev.work@gmail.com](mailto:bohdan.kurshev.work@gmail.com)
